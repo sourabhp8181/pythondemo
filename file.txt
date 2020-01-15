@@ -1,0 +1,15 @@
+"""File:Collection of records stored on secondary device.The purpose of file in any language is to provide persistency(permanent storage)"""
+
+D:\>copy con abc.txt
+       MS Dhoni is best batsman
+
+       ctrl+Z
+
+      Modes:
+
+     r : only read file (Doesnt create file it doesnt exist)
+     w : only write file (creates file if doesnt exist)
+     a : only write(only writes file)
+     r+ :read & write (read only,write only,r & w,w & r)
+     w+ :same as r+
+     a+ :append & read
